@@ -1,3 +1,5 @@
+### [Download the latest build](https://github.com/markoboskoauroville/MANTRA_MAPS/releases/latest)
+
 # MANTRA MAPS
 
 Offline map files for **Mantra Trail**, kept here because they are needed in a valley and the
